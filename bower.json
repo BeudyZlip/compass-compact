@@ -1,0 +1,24 @@
+{
+  "name": "compass-compact",
+  "version": "1.0.0",
+  "homepage": "https://github.com/BeudyZlip/compass-compact",
+  "authors": [
+    "Kevin MARTIN <kevinmartin83@gmail.co>"
+  ],
+  "description": "For gulp-sass and compass users fix import compact() function",
+  "main": "compass-compact.scss",
+  "keywords": [
+    "compass",
+    "compact",
+    "gulp",
+    "sass"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
